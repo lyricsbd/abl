@@ -1,4 +1,4 @@
-﻿/*
+/*
   // JavaScript for Able Player
 
   // HTML5 Media API:
